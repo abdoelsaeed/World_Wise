@@ -10,7 +10,11 @@
   [![Leaflet](https://img.shields.io/badge/Leaflet-1.9.4-green.svg)](https://leafletjs.com/)
   [![i18next](https://img.shields.io/badge/i18next-25.5.2-orange.svg)](https://www.i18next.com/)
 </div>
+## 🎥 Demo Video
 
+[![WorldWise Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/abdoelsaeed/World_Wise/blob/main/Demo%20Video/bandicam%202025-09-22%2001-59-51-586.mp4)
+
+**شاهد التطبيق في العمل!**
 ## 📋 نظرة عامة
 
 WorldWise هو تطبيق ويب تفاعلي مصمم لمحبي السفر والرحالة الرقميين لتوثيق وإدارة المدن التي زاروها حول العالم. يوفر التطبيق خريطة تفاعلية متقدمة مع إمكانيات متعددة اللغات وتجربة مستخدم سلسة.
