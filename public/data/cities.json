@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "76e9",
+      "cityName": "Tanta",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-09-21T23:00:31.373Z",
+      "notes": "sdsd",
+      "position": {
+        "lat": "30.788224087443847",
+        "lng": "30.964253092614886"
+      }
+    },
+    {
+      "id": "f2d0",
+      "cityName": "Gordes",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-09-21T23:00:48.108Z",
+      "notes": "",
+      "position": {
+        "lat": "39.01082757520568",
+        "lng": "28.347600158139166"
+      }
+    },
+    {
+      "id": "3ed7",
+      "cityName": "Ar Ruţbah",
+      "country": "Iraq",
+      "emoji": "🇮🇶",
+      "date": "2025-09-21T23:00:53.755Z",
+      "notes": "",
+      "position": {
+        "lat": "32.91454798246902",
+        "lng": "40.37108353221552"
+      }
+    }
+  ]
+}

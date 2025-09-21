@@ -1,0 +1,8 @@
+.manageLang {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: transparent;
+  width: fit-content;
+  z-index: 100000;
+}
